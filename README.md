@@ -80,9 +80,6 @@ Due to **n8n free plan limitations**, project-level sharing is not available.
 
 To address this limitation:
 - The full workflow logic is demonstrated in the Loom video
-- Exported n8n workflow JSON files (without credentials) are included in this repository
-
-This approach ensures transparency while maintaining security best practices.
 
 ---
 
@@ -92,7 +89,6 @@ This approach ensures transparency while maintaining security best practices.
 /components → UI components
 /hooks → Custom React hooks
 /lib → Supabase client configuration
-/n8n → Exported n8n workflows (no credentials)
 
 ---
 
